@@ -104,7 +104,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Atack1
+      name: Attack1
       takeName: Armature|Armature|pm0849_11_00_ba20_buturi01|Base Layer
       internalID: -2799242456242756782
       firstFrame: 0
@@ -133,7 +133,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Atack2
+      name: Attack2
       takeName: Armature|Armature|pm0849_11_00_ba21_tokusyu01|Base Layer
       internalID: -7759088171426413270
       firstFrame: 0
@@ -162,7 +162,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Dead
+      name: Die
       takeName: Armature|Armature|pm0849_11_00_loop01|Base Layer
       internalID: 1761113643511289541
       firstFrame: 0
