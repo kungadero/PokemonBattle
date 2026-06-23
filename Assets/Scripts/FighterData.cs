@@ -5,15 +5,16 @@ public class FighterData : ScriptableObject
 {
     public float maxHealth;
     public string fightername;
-    public AttackDatta[] attacks;
-    public AttackDatta GetRandomAttack()
+    public AttackData[] attacks;
+    public float chargeTime =2f;
+    public AttackData GetRandomAttack()
     {
         return attacks[Random.Range(0, attacks.Length)];
     }
 }
 
 [System.Serializable]
-public class AttackDatta
+public class AttackData
 {
     public string name;
     public string animationName;

@@ -8,12 +8,14 @@ public class Health : MonoBehaviour
     private Slider healthSlider;
     private float currentHealth;
     private float maxHealth;
+
+    public float  CurrentHealth => currentHealth;
     public float MaxHealth{ set{maxHealth=value; }}
     [SerializeField]
     private UnityEvent onReceiveDamage;
     [SerializeField]
     private UnityEvent onDie;
-    private void InitializeHealth()
+    public void InitializeHealth()
     {
         currentHealth = maxHealth;
     }
