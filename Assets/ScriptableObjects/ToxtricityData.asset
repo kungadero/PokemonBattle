@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: ToxtricityData
   m_EditorClassIdentifier: Assembly-CSharp::FighterData
   maxHealth: 200
-  fightername: 
+  fightername: Toxtrocity
   attacks:
   - name: garrazo
     animationName: Attack1
-    attackSoundName: 
+    attackSoundName: attack1T
     minDamage: 30
     maxDamage: 65
     chargeParticles: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
     attackParticles: {fileID: 763799897560185588, guid: 798157bad7358b04499c9d71cd3c0d9b, type: 3}
   - name: carga
     animationName: Attack2
-    attackSoundName: 
+    attackSoundName: attack2T
     minDamage: 15
     maxDamage: 85
     chargeParticles: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
     attackParticles: {fileID: 5112403345868107898, guid: 6f34ef0d986e9db4199cf75805f79753, type: 3}
   chargeTime: 2
   appearParticles: {fileID: 7226888052703040409, guid: 7ec363c8df426644ea85f8d6d570561c, type: 3}
-  appearSoundName: 
-  deadSoundName: 
-  damageSoundName: 
+  appearSoundName: appear2
+  deadSoundName: deadT
+  damageSoundName: damageT
