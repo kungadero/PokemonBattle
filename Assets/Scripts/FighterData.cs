@@ -4,7 +4,7 @@ using UnityEngine;
 public class FighterData : ScriptableObject
 {
     public float maxHealth;
-    public string fightername;
+    public string Fightername;
     public AttackData[] attacks;
     public float chargeTime =2f;
     public GameObject appearParticles;
