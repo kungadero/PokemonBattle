@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: LucarioData
   m_EditorClassIdentifier: Assembly-CSharp::FighterData
   maxHealth: 200
-  fightername: Lucario
+  Fightername: Lucario
   attacks:
   - name: HiperKick
     animationName: Attack1
@@ -29,7 +29,7 @@ MonoBehaviour:
     maxDamage: 70
     chargeParticles: {fileID: 1206498299807332555, guid: af6c1e3f046eecd4d81330aeb285600f, type: 3}
     attackParticles: {fileID: 725748389856807714, guid: 4bda94453d2ca7444a0fff05b2d425f5, type: 3}
-  chargeTime: 2
+  chargeTime: 1
   appearParticles: {fileID: 3432958286849152088, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
   appearSoundName: appear1
   deadSoundName: deadL

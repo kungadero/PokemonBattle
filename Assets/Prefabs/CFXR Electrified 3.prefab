@@ -9872,7 +9872,6 @@ GameObject:
   - component: {fileID: 9027514048236820043}
   - component: {fileID: 9027514048236820044}
   - component: {fileID: 6747932735989160330}
-  - component: {fileID: 94417255165625057}
   - component: {fileID: 8144137802585107181}
   m_Layer: 0
   m_Name: CFXR Electrified 3
@@ -14890,19 +14889,6 @@ MonoBehaviour:
     perlinColor: 0
     perlinColorSpeed: 1
   fadeOutReference: {fileID: 9027514048236820043}
---- !u!114 &94417255165625057
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9027514048236820045}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0b4ecec9b79eca49ae37987047d766e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DestroyInSeconds
-  secondsToDestroy: 2
 --- !u!114 &8144137802585107181
 MonoBehaviour:
   m_ObjectHideFlags: 0
