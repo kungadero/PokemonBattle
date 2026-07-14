@@ -9806,7 +9806,7 @@ Light:
   serializedVersion: 13
   m_Type: 2
   m_Color: {r: 0.7311321, g: 0.9361015, b: 1, a: 1}
-  m_Intensity: 0
+  m_Intensity: 7.7224874
   m_Range: 8
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -14901,4 +14901,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0b4ecec9b79eca49ae37987047d766e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyInSeconds
-  secondsToDestroy: 2
+  secondsToDestroy: 1.5

@@ -9825,7 +9825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0b4ecec9b79eca49ae37987047d766e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyInSeconds
-  secondsToDestroy: 2
+  secondsToDestroy: 1.5
 --- !u!1 &7708729512989566163
 GameObject:
   m_ObjectHideFlags: 0
@@ -9868,8 +9868,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 13
   m_Type: 2
-  m_Color: {r: 0.76470584, g: 0.26737964, b: 1, a: 1}
-  m_Intensity: 0
+  m_Color: {r: 0.48523712, g: 0.3130643, b: 1, a: 1}
+  m_Intensity: 12.651066
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208

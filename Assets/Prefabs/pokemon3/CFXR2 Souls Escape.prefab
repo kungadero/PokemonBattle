@@ -4937,7 +4937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0b4ecec9b79eca49ae37987047d766e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyInSeconds
-  secondsToDestroy: 1
+  secondsToDestroy: 1.5
 --- !u!1 &7660836441076557297
 GameObject:
   m_ObjectHideFlags: 0
